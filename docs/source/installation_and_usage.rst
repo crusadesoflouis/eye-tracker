@@ -31,7 +31,7 @@ and::
 
 
 The first one is for tracking pupils with IR video files.
-The second one is for tracking eyes with every type of video file, or with the test_webcam
+The second one is for tracking eyes with every type of video file, or with the webcam
 if no file is provided.
 The -s option is for showing the debug window, and the -o option is for saving the debug window
-to a file.
+to a video file.
