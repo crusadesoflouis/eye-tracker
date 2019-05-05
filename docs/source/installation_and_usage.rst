@@ -1,4 +1,4 @@
-.. installation_and_usage:
+.. _installation_and_usage:
 
 
 ************************

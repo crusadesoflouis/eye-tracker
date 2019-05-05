@@ -13,8 +13,9 @@ Welcome to Eye-Tracker's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   testing.rst
+   description.rst
    installation_and_usage.rst
+   testing.rst
    library.rst
 
 

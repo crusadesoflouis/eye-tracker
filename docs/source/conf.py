@@ -31,8 +31,7 @@ author = 'Maximiliano Marufo'
 extensions = ['sphinx.ext.autodoc',
               'sphinx.ext.napoleon',
               'sphinx.ext.doctest',
-              'sphinx.ext.autosummary',
-              'rinoh.frontend.sphinx']
+              'sphinx.ext.autosummary']
 
 # The suffix of source filenames.
 source_suffix = '.rst'

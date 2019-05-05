@@ -29,4 +29,3 @@ To test the module with tox, first install tox::
 And then run::
 
   tox
-  
