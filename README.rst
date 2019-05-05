@@ -4,7 +4,8 @@
 Getting Started
 ****************
 
-This is a Python module for Eyes and Pupils tracking. It can be installed with pip::
+This is a Python module for Eyes and Pupils tracking. It can be installed by cloning
+the repository and then within the directory, running the pip install command::
 
   pip install .
 
@@ -20,3 +21,5 @@ The -s option is for showing the debug window, and the -o option is for saving t
 to a file.
 
 You can also import this module as a library in your module. For this, please read the Library Usage segment.
+
+If you prefer, you can test the module before installing it, using tox. For this, please read the Testing segment.
