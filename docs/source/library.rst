@@ -22,7 +22,7 @@ be called. An example is given below::
   eyes_tracker.startTracking(source=FILE, show=False)
 
 Tha class also has the methods processFrameForPupilsTracking and processFrameForEyesTracking,
-which implement the actual computer vision flow.
+which implement the actual computer vision workflow.
 
 .. automodule:: eyeTracker.eyeTracker
    :members:
