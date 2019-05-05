@@ -8,7 +8,7 @@ This is a Python module for Eyes and Pupils tracking. It can be installed with p
 
   pip install .
 
-After installation, it can be used with this commands::
+After installation, it can be used with these commands::
 
   eye-tracker-track-pupils FILE [-s] [-o] OUTPUT_FILE
   eye-tracker-track-eyes [-f] FILE [-s] [-o] OUTPUT_FILE
